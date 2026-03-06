@@ -12,18 +12,15 @@
 
 ## Instructions
 
-1. Attempt all questions.
-2. Do not use external libraries unless mentioned.
-3. Do not change function names.
-4. Write clean, efficient Python code.
-5. Mention assumptions clearly.
-6. Handle all edge cases described.
-7. Explain time complexity where appropriate.
-8. Switch on screen recording using snipping tool
-9. You can use chat gpt but only for full coding lecture
-10. When using CHAT GPT dont copy code line by line
-11. Read CHAT GPT and wirte it yourself.
-12. Create a jupyter notebook with A no in markdown
+1. Switch on screen recording using snipping tool
+2. Create a jupyter notebook with your name_Sapid. Eg. Khushi_50003456
+3. Attempt all questions.
+4. Do not use external libraries unless mentioned.
+5. Do not change function names.
+6. Write clean, efficient Python code.
+7. Mention assumptions clearly.
+8. Handle all edge cases described.
+9. Explain complexity where appropriate. 
 
 ---
 
