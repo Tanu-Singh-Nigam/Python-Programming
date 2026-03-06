@@ -21,7 +21,8 @@
 7. Write clean, efficient Python code.
 8. Mention assumptions clearly.
 9. Handle all edge cases described.
-10. Explain complexity where appropriate. 
+10. Explain complexity where appropriate.
+11. Whenever asked you have to show the recording and juypter file.  
 
 ---
 
