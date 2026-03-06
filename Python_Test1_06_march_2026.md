@@ -13,14 +13,15 @@
 ## Instructions
 
 1. Switch on screen recording using snipping tool
-2. Create a jupyter notebook with your name_Sapid. Eg. Khushi_50003456
-3. Attempt all questions.
-4. Do not use external libraries unless mentioned.
-5. Do not change function names.
-6. Write clean, efficient Python code.
-7. Mention assumptions clearly.
-8. Handle all edge cases described.
-9. Explain complexity where appropriate. 
+2. If you will not ON screen recording then you will be marked as ZERO.
+3. Create a jupyter notebook with your name_Sapid. Eg. Khushi_50003456
+4. Attempt all questions.
+5. Do not use external libraries unless mentioned.
+6. Do not change function names.
+7. Write clean, efficient Python code.
+8. Mention assumptions clearly.
+9. Handle all edge cases described.
+10. Explain complexity where appropriate. 
 
 ---
 
