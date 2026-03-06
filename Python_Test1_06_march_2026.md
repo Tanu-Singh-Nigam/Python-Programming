@@ -24,7 +24,7 @@
 
 ---
 
-# SECTION A — CODE CORRECTION (40 Marks)
+# SECTION A - CODE CORRECTION (40 Marks)
 
 ---
 
@@ -173,7 +173,7 @@ Correct the function.
 
 ---
 
-# SECTION B — CODE COMPLETION (60 Marks)
+# SECTION B - CODE COMPLETION (60 Marks)
 
 ---
 
@@ -374,8 +374,8 @@ def parse(lines):
 Rules:
 
 * Ignore invalid lines.
-* Age: 1–120
-* Score: 0–100
+* Age: 1-120
+* Score: 0-100
 * If same name repeats:
 
   * Age must match.
